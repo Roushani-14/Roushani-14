@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Roushani
 
-<!--
-**Roushani-14/Roushani-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="header.gif" width="420" alt="Coding GIF"/>
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Aspiring Full-Stack Developer
+* 🌱 Currently learning Frontend & Backend Development
+* 🧠 Building real-world projects to strengthen practical skills
+* 🎯 Goal: Become a MERN Stack Developer
+
+---
+
+## 🛠️ Tech Skills
+
+### 🎨 Frontend
+
+* **HTML, CSS** – Creating structured, responsive, and visually appealing web pages
+* **JavaScript** – Adding interactivity and dynamic behavior to web applications
+* **React** – Building reusable UI components and single-page applications
+* **Responsive Design** – Ensuring websites work smoothly across mobile, tablet, and desktop
+
+### ⚙️ Backend
+
+* **Node.js** – Developing server-side logic and scalable backend services
+* **Express.js** – Building RESTful APIs and handling server routing efficiently
+* **MongoDB** – Managing and storing application data using a NoSQL database
+* **REST APIs** – Enabling communication between frontend and backend systems
+* **JWT Authentication** – Securing user login and protected routes
+* **Socket.io** – Implementing real-time features like instant messaging
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="linkedin.com/in/roushani-kumari-91a790324K">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:roushani2610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
+  </a>
+</p>
+
