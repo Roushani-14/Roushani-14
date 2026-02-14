@@ -1,6 +1,9 @@
 # 👋 Hello there, I'm Roushani
+<p align="center">
+  <img src="githubprofilepic.jpeg" width="280"/>
+</p>
 
-<img src="githubprofilepic.jpeg" align="right" width="260"/>
+
 
 ## 🚀 About Me
 
