@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Roushani
+# 👋 Hello there, I'm Roushani
 
-<p align="center">
-  <img src="header.gif" width="420" alt="Coding GIF"/>
-</p>
+<img src="githubprofilepic.jpeg" align="right" width="260"/>
 
 ## 🚀 About Me
 
